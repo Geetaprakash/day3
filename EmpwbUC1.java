@@ -8,7 +8,3 @@ else
 System.out.println("employee is absent");
 }
 }
-output:
-Prakash@Geeta MINGW64 ~/javahelloworld (master)
-$ java EmpwbUC1
-employee is present 
